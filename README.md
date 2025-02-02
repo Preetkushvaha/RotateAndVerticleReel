@@ -1,5 +1,5 @@
 
-Just clone the project playe scene one bye one.
+Just clone the project play scene one bye one.
 There are two scene in this project .
 1 Rotate
 2 VerticleReel
